@@ -1,0 +1,26 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Barely Amazon Shopping System",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mchaffin/bAmazon.git"
+  },
+  "keywords": [
+    "Amazon"
+  ],
+  "author": "Mark Chaffin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mchaffin/bAmazon/issues"
+  },
+  "homepage": "https://github.com/mchaffin/bAmazon#readme",
+  "dependencies": {
+    "inquirer": "^6.0.0",
+    "mysql": "^2.15.0"
+  }
+}
